@@ -1,9 +1,9 @@
 # Introduction
-The InfernOS Graphics Foundation is a project which will become the (well) foundation of the graphics in the upcoming InfernOS.
+The InfernOS Graphics Foundation is a project which will become the (well..) foundation of the graphics in the upcoming InfernOS.
 Ain't much else to tell (for now), enjoy your stay.
 
 # Getting Started
-Basically it is a VS2017 projec
+Basically it is a VS2017 project
 1.	Clone / Download / Telegrab / Whatever the source.
 2.	You need to have the following libraries in order for the program to build correctly:
   * *GLFW*
@@ -14,7 +14,7 @@ Basically it is a VS2017 projec
 4.	Links to dependencies:
  * [GLFW](http://www.glfw.org/)
  * [GLM](http://glm.g-truc.net/0.9.8/index.html)
- * [GitHub](https://github.com/)
+ * [GitHub](https://github.com/) :P
 
 # Build and Test
 Build with VS2017 while correctly linking the following libraries specified above.
@@ -42,7 +42,7 @@ Who knows? Maybe tomorrow, maybe 10 years from now.
 You're asking me?
 
 ### I want to help
-Sure, either build and test (see section below) or
+Sure, either build and test (see aforementioned) or
 contact me and I'll fill you in with the details if you
 want to get serious.
 
